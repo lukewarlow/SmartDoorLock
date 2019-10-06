@@ -247,22 +247,3 @@ unsigned long EEPROMReadlong(long address)
   unsigned long returnVal = ret;
   return returnVal;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
